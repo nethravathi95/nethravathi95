@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nethravathi95
-- 👀 I’m interested in Drupal with reactjs
-- 🌱 I’m currently learning Drupal with reactjs
-- 💞️ I’m looking to collaborate on Drupal and react js
+- 👀 I’m interested in Drupal with angularjs
+- 🌱 I’m currently learning Drupal with angularjs
+- 💞️ I’m looking to collaborate on Drupal and angularjs
 - 📫 How to reach me (nethravathi.1js15is410@gmail.com)-9611515096
 
 <!---
